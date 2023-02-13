@@ -44,3 +44,4 @@ Main application features include:
 
  <img src="/images/2023-02-06_10-40-21.png" alt= “” width="850" height="550">
 
+Genereted PDF includes full logs of approvals and can server as formal document delived to customer after each of sprint.
