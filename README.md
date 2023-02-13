@@ -13,7 +13,7 @@ Main application features include:
 
  - ability o setup project structure (project with releases and sprints)
 
-<img src="/images/2023-02-06_10-33-18.png" alt= “” width="400" height="400" style="display: block; margin-left: auto;  margin-right: auto;  width: 50%;">
+<img src="/images/2023-02-06_10-33-18.png" alt= “” width="600" height="300" style="display: block; margin-left: auto;  margin-right: auto;  width: 50%;">
  
  ![Alt text](/images/2023-02-06_10-33-18.png)
  
