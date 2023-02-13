@@ -12,6 +12,8 @@ Application tracks formal documentation of quality measures taken during and aft
 Main application features include:
 
  - ability o setup project structure (project with releases and sprints)
+
+<img src="/images/2023-02-06_10-33-18.png" alt= “” width="100" height="200">
  
  ![Alt text](/images/2023-02-06_10-33-18.png)
  
