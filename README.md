@@ -11,7 +11,7 @@ Application tracks formal documentation of quality measures taken during and aft
 
 ## Installation
 
-In you Pega 8 environment navigate to Confgure -> Application -> Distribution -> Import and select zipped RAP file avialable in this repository. After sucessfull import of application add one of following Access Groups to your operartor: NHChecklist:Admin, NHChecklist:Manager or NHChecklist:Newhire.
+In you Pega 8 environment navigate to Confgure -> Application -> Distribution -> Import and select zipped RAP file avialable in this repository. After sucessfull import of application add one of following Access Groups to your operartor: QAChecklist:Admin, NHChecklist:LSA or NHChecklist:Dev.
 
 Switch to **Newhire Checklist** application.
 
