@@ -1,5 +1,5 @@
 
-# QA-Checklist
+# QA Checklist
 
 ## Bussiness value
 
@@ -13,7 +13,7 @@ Application tracks formal documentation of quality measures taken during and aft
 
 In you Pega 8 environment navigate to Confgure -> Application -> Distribution -> Import and select zipped RAP file avialable in this repository. After sucessfull import of application add one of following Access Groups to your operartor: QAChecklist:Admin, NHChecklist:LSA or NHChecklist:Dev.
 
-Switch to **Newhire Checklist** application.
+Switch to **QA Checklist** application.
 
 ## Manual
 
