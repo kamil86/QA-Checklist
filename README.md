@@ -21,7 +21,7 @@ Main application features include:
 
  - ability o setup project structure (project with releases and sprints)
 
-<img src="/images/2023-02-06_10-33-18.png" alt= “” width="600" height="300">
+<img src="images/2023-02-06_10-33-18.png" alt= “” width="600" height="300">
  
  - each object has its own lifecycle as it was implemented as case type
  
@@ -30,7 +30,7 @@ Main application features include:
  <img src="https://github.com/kamiljaneczek/QA-Checklist/blob/d3f4ca1c8d0970114cdb341c0254e36a64e0d624/images/2023-02-06_10-01-58.png" alt= “” width="370" height="340">
 
 
- <img src="/images/2023-02-06_10-03-58.png" alt= “” width="550" height="550">
+ <img src="images/2023-02-06_10-03-58.PNG" alt= “” width="550" height="550">
 
  
  - possibility to customize approval workflow (who needs to approve checklist)
