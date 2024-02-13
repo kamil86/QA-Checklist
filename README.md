@@ -20,6 +20,9 @@ Switch to **QA Checklist** application.
 Main application features include:
 
  - ability o setup project structure (project with releases and sprints)
+![Alt Text](images/2023-02-06_10-33-18.png)
+![Alt Text](./images/2023-02-06_10-33-18.png)
+![Alt Text](../images/2023-02-06_10-33-18.PNG)
 
 <img src="images/2023-02-06_10-33-18.png" alt= “” width="600" height="300">
  
