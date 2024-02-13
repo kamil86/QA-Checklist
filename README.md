@@ -35,12 +35,12 @@ Main application features include:
  
  - possibility to customize approval workflow (who needs to approve checklist)
  
-  <img src="/images/2023-02-06_10-31-21.png" alt= “” width="210" height="180">
+  <img src="./images/2023-02-06_10-31-21.png" alt= “” width="210" height="180">
 
  
  - It is possible to assign this configuration per project
 
- <img src="/images/2023-02-06_10-32-00.png" alt= “” width="180" height="120">
+ <img src="../images/2023-02-06_10-32-00.png" alt= “” width="180" height="120">
  
  - Create checklist with detailed information
 
