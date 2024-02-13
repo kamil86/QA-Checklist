@@ -27,7 +27,7 @@ Main application features include:
  
  - possibility to customize checklist questions
  
- <img src="/images/2023-02-06_10-01-58.png" alt= “” width="370" height="340">
+ <img src="https://github.com/kamiljaneczek/QA-Checklist/blob/d3f4ca1c8d0970114cdb341c0254e36a64e0d624/images/2023-02-06_10-01-58.png" alt= “” width="370" height="340">
 
 
  <img src="/images/2023-02-06_10-03-58.png" alt= “” width="550" height="550">
